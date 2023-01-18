@@ -1,0 +1,2 @@
+public class reto1 {
+}
